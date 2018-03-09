@@ -1,0 +1,30 @@
+Ruby Introduction:-
+
+  Ruby was introduced by Yukihiro Matsumoto (known widely as “Matz”)
+
+  Ruby originated in Japan during the mid-1990s
+
+  Ruby is Based on Perl,Smalltalk,Eiffel,Ada and Lisp.
+
+  Ruby is Written in c
+  Ruby is a dynamic interpreted language which has many strong features of various languages.
+  
+  Ruby offers automatic memory management.
+  It is a strong Object oriented programming language. Ruby is open source
+  https://github.com/ruby/ruby
+
+  Ruby can be embeded into Hypertext Markup Language (HTML).
+
+  .rb extention
+
+Ruby Variables:
+
+  local variable
+  instance variable
+  class variable
+  global variable
+  Parallel assignment
+
+
+
+  
